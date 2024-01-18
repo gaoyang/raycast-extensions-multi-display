@@ -11,7 +11,7 @@ type Display =
   | undefined;
 
 export default async function SwitchSource(sourceNumber: string) {
-  const m1ddcPath = path.join(environment.assetsPath, "m1ddc");
+  const m1ddcPath = path.join(environment.assetsPath, `m1ddc-${process.arch}`);
   execSync(`chmod u+x ${m1ddcPath}`);
   const output = execSync(`${m1ddcPath} display list`);
   const displays = parseDisplayList(output.toString());

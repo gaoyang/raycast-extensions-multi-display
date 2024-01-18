@@ -11,7 +11,7 @@
 
 ## Optimal Use
 
-- Configure the commands under `Multi Display` in RayCast's Extended Settings as your favorite shortcuts so that you can switch input sources at any time without opening RayCast.
+- Configure the commands under `Multi Display` in Raycast's Extended Settings as your favorite shortcuts so that you can switch input sources at any time without opening Raycast.
 - For example, I set `Switch Command` to `⇧ + ⌃ + (1,2,3...) ` to switch the input source.
 
 ## Author

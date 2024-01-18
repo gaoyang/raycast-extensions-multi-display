@@ -16,7 +16,7 @@
       "icon": "icon.png",
       "title": "Switch To Type-C",
       "subtitle": "Display Input Source",
-      "description": "Display Input Source",
+      "description": "Display Input Source To Type-C",
       "mode": "no-view"
     },
     {
@@ -24,7 +24,7 @@
       "icon": "icon.png",
       "title": "Switch To HDMI",
       "subtitle": "Display Input Source",
-      "description": "Display Input Source",
+      "description": "Display Input Source To HDMI",
       "mode": "no-view"
     },
     {
@@ -32,7 +32,7 @@
       "icon": "icon.png",
       "title": "Switch To DP",
       "subtitle": "Display Input Source",
-      "description": "Display Input Source",
+      "description": "Display Input Source To DisplayPort",
       "mode": "no-view"
     }
   ],
